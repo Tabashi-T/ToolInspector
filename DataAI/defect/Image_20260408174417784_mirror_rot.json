@@ -1,0 +1,64 @@
+{
+  "version": "6.2.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "chip",
+      "points": [
+        [
+          1200.0809716599192,
+          315.58704453441305
+        ],
+        [
+          1216.68016194332,
+          344.73684210526324
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "chip",
+      "points": [
+        [
+          1230.0404858299596,
+          539.0688259109312
+        ],
+        [
+          1239.757085020243,
+          561.3360323886641
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "chip",
+      "points": [
+        [
+          1182.672064777328,
+          1000.6072874493927
+        ],
+        [
+          1199.676113360324,
+          1024.4939271255062
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "Image_20260408174417784_mirror_rot.jpg",
+  "imageData": null,
+  "imageHeight": 1200,
+  "imageWidth": 1920
+}

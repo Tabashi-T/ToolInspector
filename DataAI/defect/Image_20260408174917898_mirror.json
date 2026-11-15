@@ -1,0 +1,82 @@
+{
+  "version": "6.2.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "chip",
+      "points": [
+        [
+          661.3715710723193,
+          695.3865336658355
+        ],
+        [
+          691.2967581047383,
+          621.8204488778056
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "chip",
+      "points": [
+        [
+          659.1271820448878,
+          743.5162094763093
+        ],
+        [
+          671.8453865336658,
+          714.8379052369078
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "chip",
+      "points": [
+        [
+          663.6159600997507,
+          1154.9875311720698
+        ],
+        [
+          652.3940149625935,
+          1169.7007481296757
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "chip",
+      "points": [
+        [
+          682.3192019950125,
+          1013.0922693266832
+        ],
+        [
+          693.5411471321695,
+          1028.0548628428928
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "Image_20260408174917898_mirror.jpg",
+  "imageData": null,
+  "imageHeight": 1200,
+  "imageWidth": 1920
+}

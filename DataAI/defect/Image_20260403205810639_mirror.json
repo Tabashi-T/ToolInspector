@@ -1,0 +1,136 @@
+{
+  "version": "6.2.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "chip",
+      "points": [
+        [
+          832.0,
+          146.16666666666669
+        ],
+        [
+          822.0,
+          159.5
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "chip",
+      "points": [
+        [
+          837.8822055137844,
+          190.41353383458645
+        ],
+        [
+          828.4837092731829,
+          207.83208020050125
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "chip",
+      "points": [
+        [
+          838.2834850455137,
+          836.9960988296489
+        ],
+        [
+          829.8309492847854,
+          851.8205461638491
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "chip",
+      "points": [
+        [
+          849.2067620286086,
+          902.4057217165149
+        ],
+        [
+          832.5617685305592,
+          881.3394018205461
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "chip",
+      "points": [
+        [
+          857.3992197659298,
+          965.8647594278283
+        ],
+        [
+          841.0143042912874,
+          941.9375812743823
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "chip",
+      "points": [
+        [
+          861.6905071521456,
+          1009.817945383615
+        ],
+        [
+          852.1976592977894,
+          994.4733420026007
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "chip",
+      "points": [
+        [
+          931.5633423180592,
+          476.3477088948787
+        ],
+        [
+          909.0566037735848,
+          440.4986522911051
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "Image_20260403205810639_mirror.jpg",
+  "imageData": null,
+  "imageHeight": 1200,
+  "imageWidth": 1920
+}

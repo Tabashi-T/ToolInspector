@@ -1,0 +1,118 @@
+{
+  "version": "6.2.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "chip",
+      "points": [
+        [
+          809.3470149253732,
+          181.9962686567164
+        ],
+        [
+          799.8320895522388,
+          166.13805970149252
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "chip",
+      "points": [
+        [
+          808.6007462686567,
+          228.07835820895522
+        ],
+        [
+          797.0335820895523,
+          209.98134328358208
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "chip",
+      "points": [
+        [
+          853.0037313432836,
+          483.11567164179104
+        ],
+        [
+          833.6007462686567,
+          448.9738805970149
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "chip",
+      "points": [
+        [
+          822.89592760181,
+          894.9095022624434
+        ],
+        [
+          807.5113122171946,
+          874.0950226244344
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "chip",
+      "points": [
+        [
+          819.7285067873304,
+          957.3529411764706
+        ],
+        [
+          804.7963800904978,
+          932.9185520361991
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "chip",
+      "points": [
+        [
+          815.4298642533937,
+          998.529411764706
+        ],
+        [
+          806.3800904977376,
+          983.1447963800905
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "Image_20260403211715582_mirror.jpg",
+  "imageData": null,
+  "imageHeight": 1200,
+  "imageWidth": 1920
+}

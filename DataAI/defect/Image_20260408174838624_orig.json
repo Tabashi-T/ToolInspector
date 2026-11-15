@@ -1,0 +1,118 @@
+{
+  "version": "6.2.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "chip",
+      "points": [
+        [
+          1249.8785425101216,
+          401.41700404858307
+        ],
+        [
+          1260.0,
+          412.75303643724703
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "chip",
+      "points": [
+        [
+          1258.3805668016196,
+          440.68825910931184
+        ],
+        [
+          1269.7165991902834,
+          458.9068825910932
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "chip",
+      "points": [
+        [
+          1253.5222672064779,
+          664.17004048583
+        ],
+        [
+          1267.2874493927127,
+          694.5344129554657
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "chip",
+      "points": [
+        [
+          1275.7894736842106,
+          1049.1902834008097
+        ],
+        [
+          1291.578947368421,
+          1069.4331983805669
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "chip",
+      "points": [
+        [
+          1286.7206477732793,
+          1101.8218623481782
+        ],
+        [
+          1300.8906882591093,
+          1126.1133603238866
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "chip",
+      "points": [
+        [
+          1271.336032388664,
+          1008.2995951417004
+        ],
+        [
+          1280.6477732793524,
+          1024.089068825911
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "Image_20260408174838624_orig.jpg",
+  "imageData": null,
+  "imageHeight": 1200,
+  "imageWidth": 1920
+}

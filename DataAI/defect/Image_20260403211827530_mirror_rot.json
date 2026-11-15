@@ -1,0 +1,118 @@
+{
+  "version": "6.2.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "chip",
+      "points": [
+        [
+          1215.911330049261,
+          175.61576354679812
+        ],
+        [
+          1226.2561576354678,
+          193.84236453201976
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "chip",
+      "points": [
+        [
+          1209.0147783251232,
+          226.84729064039414
+        ],
+        [
+          1221.3300492610838,
+          249.0147783251232
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "chip",
+      "points": [
+        [
+          1185.8620689655172,
+          344.08866995073896
+        ],
+        [
+          1196.2068965517242,
+          363.79310344827593
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "chip",
+      "points": [
+        [
+          1176.0098522167486,
+          734.729064039409
+        ],
+        [
+          1202.6108374384237,
+          823.3990147783252
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "chip",
+      "points": [
+        [
+          1166.6502463054187,
+          675.1231527093597
+        ],
+        [
+          1184.8768472906404,
+          711.0837438423646
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "chip",
+      "points": [
+        [
+          1165.1724137931035,
+          1058.3743842364531
+        ],
+        [
+          1181.9211822660097,
+          1089.9014778325122
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "Image_20260403211827530_mirror_rot.jpg",
+  "imageData": null,
+  "imageHeight": 1200,
+  "imageWidth": 1920
+}
